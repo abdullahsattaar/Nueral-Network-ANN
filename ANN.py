@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Libraries
 import csv
 import random as rd
